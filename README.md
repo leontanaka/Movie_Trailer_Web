@@ -23,17 +23,16 @@ meadi.py, entertainment_center.py, fresh_tomatoes.py, README.md
 ```
 Open entertainment_center,py file
 ```
-Create a new instance of class Movie in the following format:
+Create new instances of class Movie in the following format:
 new_instance = media.Movie("movie_title", "movie_storyline", "poster_image_url_link", "trailer_youtube_url_link")
 
-And repeat
-
-```
 Add new instances to the array called movies
+
 ```
 Run Module
+```
+Upon running this program, an html file will be generated inside the folder and a webpage will be opened, showing names as well as images of your favourite movies. By clicking on one of the displayed images, trailer for the movie will be played.
 
-Upon running a program, an html file will be generated inside the folder and a webpage will be opened, showing names as well as images of your favourite movies. By clicking on one of the displayed images, trailer for the movie will be played.
 
 ## Built With
 
