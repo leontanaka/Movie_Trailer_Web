@@ -32,13 +32,13 @@ Add new instances to the array called movies
 Run Module
 ```
 Upon running this program, an html file will be generated inside the folder and a webpage will be opened, showing names as well as images of your favourite movies. By clicking on one of the displayed images, trailer for the movie will be played.
-
+```
 
 ## Built With
 
 * [Module: webbrowser, os, re]- Stdlib from python library
 
-## Authors
+### Authors
 
 * **Xiaofan Liu** - *Initial work* - [adarsh0806](https://github.com/adarsh0806)
 
