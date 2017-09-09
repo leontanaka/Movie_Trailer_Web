@@ -49,10 +49,10 @@ In the "entertainment_center.py" window
 Select Run
 Run Module(by pressing F5)
 ```
-Upon running, an html file will be generated in the same <br />
-directory where the python files are downloaded and a webpage <br />
-will be opened with your default web browser, showing names as <br />
-well as images of your favourite movies. By clicking on one of <br />
+Upon running, an html file will be generated in the same 
+directory where the python files are downloaded and a webpage 
+will be opened with your default web browser, showing names as 
+well as images of your favourite movies. By clicking on one of 
 the displayed images, trailer for the movie will be played.
 
 ## Built With
