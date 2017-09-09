@@ -17,7 +17,7 @@ Make sure an application called Idle is installed and ready to run
 
 ## Installing
 
-* **Downloading repository to local**
+* Downloading repository to local
 
 Fork the current repository to create your own copy in Github. 
 Clone the repository and donwnload the zip folder containing 
@@ -27,7 +27,7 @@ the following files:
 fresh_tomatoes.pymeadia.py, fresh_tomatoes.pymeadia.pyc,
 media.py, media.pyc
 ```
-### Running the program with IDLE
+## Running the program with IDLE
 
 * Opening the python file
 * Run IDLE. A "Python Shell" window will be opened.
