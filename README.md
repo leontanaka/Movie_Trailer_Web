@@ -14,22 +14,25 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Make sure Python 2.7(or later version) is installed
-
+Make sure an application called Idle is installed and ready to run
 
 ### Installing
 ```
-Donwnload the zip folder containing the following files:
-meadi.py, entertainment_center.py, fresh_tomatoes.py, README.md
+Fork the current repository to create your own copy in Github. Then clone the repository and donwnload the zip folder containing the following files:
+meadia.py, entertainment_center.py, fresh_tomatoes.py, README.md
 ```
-Open entertainment_center,py file
+Run IDLE. A "Python Shell" window will be opened.
+```
+```
+Click File, Open, and choose the "entertainment_center.py" document in your local directory
 ```
 Create new instances of class Movie in the following format:
-new_instance = media.Movie("movie_title", "movie_storyline", "poster_image_url_link", "trailer_youtube_url_link")
+new_instance = media.Movie("movie_title", "movie_storyline", "poster_image_url_link", "trailer_youtube_url_link") or
 
 Add new instances to the array called movies
 
 ```
-Run Module
+In the "entertainment_center.py" window, select Run, Run Module(by pressing F5) to run the script
 ```
 Upon running this program, an html file will be generated inside the folder and a webpage will be opened, showing names as well as images of your favourite movies. By clicking on one of the displayed images, trailer for the movie will be played.
 ```
