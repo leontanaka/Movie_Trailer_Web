@@ -18,8 +18,8 @@ Make sure an application called Idle is installed and ready to run
 ## Downloading repository to local
 
 
-*Fork the current repository to create your own copy in Github. 
-*Clone the repository and donwnload the zip folder containing 
+* Fork the current repository to create your own copy in Github. 
+* Clone the repository and donwnload the zip folder containing 
 the following files:
 ```
 .DS_Store, .gitignore, README.md, entertainment_center.py, 
