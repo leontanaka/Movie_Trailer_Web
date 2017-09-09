@@ -17,7 +17,7 @@ Make sure an application called Idle is installed and ready to run
 
 ## Installing
 
-* Downloading repository to local
+*Downloading repository to local
 
 Fork the current repository to create your own copy in Github. 
 Clone the repository and donwnload the zip folder containing 
