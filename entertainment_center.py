@@ -29,4 +29,3 @@ movies = [terminator, god, metal, iron]
 
 # generates a trailer page for the movies and open with default browser
 fresh_tomatoes.open_movies_page(movies)
-
