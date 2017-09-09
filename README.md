@@ -6,25 +6,6 @@ Server-side code to store a list of your favorite movies and
 generate a web page allowing visitors to browse the title and the
 trailers of these movies
 
-## Table of Contents
-<ul>
-	<li><a href="#Getting Started">Getting Started</a>
-	<ul>
-		<li><a href="Prerequisites">Prerequisites</a></li>
-	</ul>
-	</li>
-	<li><a href="#Downloading repository to local">Downloading repository to local</a>
-	</li>
-	<li><a href="#Running the program with IDLE">Running the program with IDLE</a>
-	</li>
-	<li><a href="#Built With">Built With</a>
-	<ul>
-		<li><a href="Modules">Modules</a></li>
-		<li><a href="Authors">Authors</a></li>
-	</ul>
-	<li><a href="#Acknowledgments">Acknowledgments</a></li>
-</ul>
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
