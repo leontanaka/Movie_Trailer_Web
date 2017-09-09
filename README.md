@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Make sure Python 2.7(or later version) is installed
+Make sure Python 2.7(or later version) is installed<br />
 Make sure an application called Idle is installed and ready to run
 
 ### Installing
@@ -50,5 +50,5 @@ Upon running this program, an html file will be generated inside the folder and 
 
 * Audacity.com
 * Full Stack Web Developer Nanodegree Program
-* Projec Movie Trailer Website
+* Project Movie Trailer Website
 
