@@ -1,7 +1,10 @@
 <h1>Movies Trailer</h1>
-# ud036_StarterCode
+
+## ud036_StarterCode
+
 Source code for a Movie Trailer website.
-# Project Title
+
+## Project Title
 
 Server-side code to store a list of your favorite movies and
 generate a web page allowing visitors to browse the title and the
