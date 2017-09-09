@@ -20,7 +20,7 @@ trailers of these movies
 	<li><a href="#Built With">Built With</a>
 	<ul>
 		<li><a href="Modules">Modules</a></li>
-		<li><a href="Authors">Prerequisites</a></li>
+		<li><a href="Authors">Authors</a></li>
 	</ul>
 	<li><a href="#Acknowledgments">Acknowledgments</a></li>
 </ul>
